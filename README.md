@@ -1,5 +1,7 @@
 # Hearify
 
+United Hackathon V1 Winner (1/234)
+
 **Rehearse a place by sound.** A friend films a room once on a phone. Hearify turns the video into a 3D model, finds the
 door, tables, chairs and stairs, and lets someone who can't see the room walk through it on headphones before they visit.
 
